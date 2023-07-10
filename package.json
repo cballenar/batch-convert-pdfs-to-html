@@ -1,0 +1,14 @@
+{
+  "name": "pdf-to-html",
+  "version": "1.0.0",
+  "description": "Batch convert PDFs to HTML files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "cballenar",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2html": "^3.1.0"
+  }
+}
